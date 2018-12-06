@@ -10,7 +10,7 @@ alias gx='gitx --all'
 alias gl='git ls-files'
 
 alias ls='ls --color=auto -h'
-alias le='ls -l'
+alias le='ll'
 alias sbl='/opt/sublime_text/sublime_text'
 alias rgrep='grep -RI'
 alias ip='ip -c'
