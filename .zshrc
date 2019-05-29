@@ -3759,6 +3759,8 @@ zrclocal
 
 source $HOME/.bash_aliases
 
+D=/home/alex/Desktop
+
 ## genrefcard.pl settings
 
 ### doc strings for external functions from files
