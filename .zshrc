@@ -3774,3 +3774,8 @@ D=/home/alex/Desktop
 # Local variables:
 # mode: sh
 # End:
+
+
+export LANG="en_US.utf8"
+export LANGUAGE="en_US.utf8"
+export LC_ALL="en_US.utf8"
